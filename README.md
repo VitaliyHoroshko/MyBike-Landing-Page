@@ -4,7 +4,7 @@ A responsive landing page for a fictional bicycle brand built from a Figma desig
 
 ## 📸 Preview
 
-![MyBike Preview](/src/photos/MyBikePreview.png)
+![MyBike Preview](./src/photos/MyBikePreview.png)
 
 ## 🚀 Live Demo
 
