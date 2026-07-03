@@ -2,9 +2,10 @@
 
 A responsive landing page for a fictional bicycle brand built from a Figma design. The project showcases modern frontend development practices with smooth navigation, adaptive layouts, and clean UI implementation.
 
-## 📸 Preview
 
-![MyBike Preview](./src/photos/MyBikePreview.png)
+## Preview
+
+![2048 Preview](src/photos/reference.png)
 
 ## 🚀 Live Demo
 
